@@ -1,4 +1,4 @@
-# ULS018_Tecchia_della_Gabellaccia2 ([mappa](https://umap.openstreetmap.fr/it/map/uls018_tecchia_della_gabellaccia2_1075585?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# ULS018_Tecchia_della_Gabellaccia2 ([mappa](https://umap.openstreetmap.fr/it/map/uls018_tecchia_della_gabellaccia2_1075585))
 Scheda sito di una delle grotte che costituiscono il complesso della Tecchia della Gabellaccia
 
 ## Sito: Tecchia della Gabellaccia 2
